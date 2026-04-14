@@ -1,6 +1,6 @@
 import { SparklesCore } from "./ui/sparkles";
 import { motion } from "framer-motion";
-import MohitImage from './assets/MohitMaddan.jpg' 
+import MohitImage from '../assets/MohitMaddan.jpg' 
 export const Hero = () => {
   return (
     <div className="h-screen w-full bg-slate-950 flex flex-col items-center justify-center overflow-hidden relative">
