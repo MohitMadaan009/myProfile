@@ -25,7 +25,7 @@ export const Hero = () => {
       >
         <div className="w-40 h-40 md:w-48 md:h-48 rounded-full overflow-hidden border-4 border-slate-800 shadow-2xl mb-4">
           <img
-            src="/src/assets/Mohit Maddan.jpg"
+            src="/src/assets/MohitMaddan.jpg"
             alt="Mohit Madaan"
             className="w-full h-full object-cover"
           />
