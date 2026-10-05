@@ -13,7 +13,7 @@ export const About = () => {
           <h2 className="text-4xl font-bold mb-12 text-center">About Me</h2>
           <div className="bg-slate-800 rounded-2xl p-8 md:p-12 shadow-xl border border-slate-700/50">
             <p className="text-lg md:text-xl leading-relaxed text-slate-300">
-              I am a proficient Full Stack Developer with over 5 years of experience in designing and developing high-quality web applications. I am skilled in collaborating with cross-functional teams, delivering client-focused solutions, and contributing to efficient project execution. I continuously seek opportunities to leverage my expertise to drive success in dynamic and challenging environments.
+              I am a proficient Full Stack Developer with over 2.6 years of experience in designing and developing high-quality web applications. I am skilled in collaborating with cross-functional teams, delivering client-focused solutions, and contributing to efficient project execution. I continuously seek opportunities to leverage my expertise to drive success in dynamic and challenging environments.
             </p>
           </div>
         </motion.div>
